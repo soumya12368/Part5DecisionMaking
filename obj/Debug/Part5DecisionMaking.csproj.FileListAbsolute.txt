@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\bin\Debug\Part5DecisionMaking.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\bin\Debug\Part5DecisionMaking.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\bin\Debug\Part5DecisionMaking.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\obj\Debug\Part5DecisionMaking.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\obj\Debug\Part5DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\obj\Debug\Part5DecisionMaking.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part5DecisionMaking\Part5DecisionMaking\obj\Debug\Part5DecisionMaking.pdb
